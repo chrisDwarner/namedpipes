@@ -1,10 +1,10 @@
 // code taken from http://msdn.microsoft.com/en-us/library/windows/desktop/aa365588(v=vs.85).aspx
 
+#include "stdafx.h"
 #include <windows.h> 
 #include <stdio.h> 
 #include <tchar.h>
 #include <strsafe.h>
-#include "stdafx.h"
 
 #define BUFSIZE 512
  
